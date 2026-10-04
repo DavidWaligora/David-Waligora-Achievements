@@ -3,6 +3,11 @@
 
 ## 🚀 Achievements
 ```bash
+04-10-2026: Introduction to AI concepts
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/QSHUCTYE?sharingId=8BB15252B57FB6C3
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/EGZ6DYGP?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 18-06-2025: Introduction to AI concepts
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-0061/QSHUCTYE?sharingId=8BB15252B57FB6C3
 ```
