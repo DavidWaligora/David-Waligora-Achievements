@@ -3,8 +3,13 @@
 
 ## 🚀 Achievements
 ```bash
+05-10-2026: Explore responsible AI
+Module assessment passed
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/K9MNG89B?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 05-10-2026: Explore internet search and beyond
-https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/ZJX6PY32?sharingId=A084FC7B1A2EEBBD
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/K9MNG89B?sharingId=A084FC7B1A2EEBBD
 ```
 ```bash
 04-10-2026: Explore Generative AI
