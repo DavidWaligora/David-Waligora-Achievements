@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+05-10-2026: Explore internet search and beyond
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/ZJX6PY32?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 04-10-2026: Explore Generative AI
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/QL7GT6YE?sharingId=A084FC7B1A2EEBBD
 ```
