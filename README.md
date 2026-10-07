@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+07-10-2026: Get started with Microsoft Copilot
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/7DFFEEUZ?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 05-10-2026: Explore responsible AI
 Module assessment passed
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/K9MNG89B?sharingId=A084FC7B1A2EEBBD
