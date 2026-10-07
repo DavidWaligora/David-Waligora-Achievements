@@ -3,6 +3,18 @@
 
 ## 🚀 Achievements
 ```bash
+07-10-2026: AI Fluency
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/NQUUK4XF?sharingId=A084FC7B1A2EEBBD
+```
+```bash
+07-10-2026: Explore AI for All
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/QL7796QE?sharingId=A084FC7B1A2EEBBD
+```
+```bash
+07-10-2026: Explore AI for All
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/QL7796QE?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 07-10-2026: Boost your productivity with Microsoft Copilot
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/FE33PY4X?sharingId=A084FC7B1A2EEBBD
 ```
