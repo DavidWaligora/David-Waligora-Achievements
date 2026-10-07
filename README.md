@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+07-10-2026: Prepare to use generative AI at work
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/7DFFGPDZ?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 07-10-2026: AI Fluency
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/NQUUK4XF?sharingId=A084FC7B1A2EEBBD
 ```
