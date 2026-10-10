@@ -3,6 +3,14 @@
 
 ## 🚀 Achievements
 ```bash
+10-10-2026: Work smarter with Microsoft Copilot Chat
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/NQ3VV8AF?sharingId=A084FC7B1A2EEBBD
+```
+```bash
+10-10-2026: Build foundational generative AI skills
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/QLZSSVKE?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 10-10-2026: Write effective prompts to achieve optimal results
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/VSAJBA6M?sharingId=A084FC7B1A2EEBBD
 ```
