@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+17-10-2026: Introduction to Microsoft AI agent solutions
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/Y4NKBUKR?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 10-10-2026: Work smarter with Microsoft Copilot Chat
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/NQ3VV8AF?sharingId=A084FC7B1A2EEBBD
 ```
