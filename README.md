@@ -3,6 +3,14 @@
 
 ## 🚀 Achievements
 ```bash
+17-10-2026: Enhance your productivity with prebuilt Microsoft 365 Copilot agents
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/BUP3X56D?sharingId=A084FC7B1A2EEBBD
+```
+```bash
+17-10-2026: Explore prebuilt Microsoft Copilot agents
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/H29VKX78?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 17-10-2026: Get started with agents
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/JHK8FU5T?sharingId=A084FC7B1A2EEBBD
 ```
