@@ -3,6 +3,18 @@
 
 ## 🚀 Achievements
 ```bash
+```
+```bash
+```
+```bash
+18-10-2026: Transform your everyday business processes with agents
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/4CQ395PK?sharingId=A084FC7B1A2EEBBD
+```
+```bash
+18-10-2026: Share and use agents
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/Y4NDKMFR?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 18-10-2026: Build and manage an agent
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/P6M97SV4?sharingId=A084FC7B1A2EEBBD
 ```
