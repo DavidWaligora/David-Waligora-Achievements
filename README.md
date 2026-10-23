@@ -5,6 +5,8 @@
 ```bash
 ```
 ```bash
+23-10-2026: Get started with Microsoft Copilot Studio
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/WMHRFCKN?sharingId=A084FC7B1A2EEBBD
 ```
 ```bash
 18-10-2026: Transform your everyday business processes with agents
