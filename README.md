@@ -3,6 +3,14 @@
 
 ## 🚀 Achievements
 ```bash
+08-11-2026: Add structured automation to agents in Microsoft Copilot Studio
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/CRC7WH39?sharingId=A084FC7B1A2EEBBD
+```
+```bash
+08-11-2026: Create agents in Microsoft Copilot Studio
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/3Z3VXNNH?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 08-11-2026: Build intelligent agents in Microsoft Copilot Studio
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/QLQ64LXE?sharingId=A084FC7B1A2EEBBD
 ```
