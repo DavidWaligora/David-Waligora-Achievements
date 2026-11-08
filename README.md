@@ -3,6 +3,10 @@
 
 ## 🚀 Achievements
 ```bash
+08-11-2026: Build intelligent agents in Microsoft Copilot Studio
+https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/QLQ64LXE?sharingId=A084FC7B1A2EEBBD
+```
+```bash
 02-11-2026: Design agent conversations using topics
 https://learn.microsoft.com/api/achievements/share/en-us/DavidWaligora-1892/VS23QYXM?sharingId=A084FC7B1A2EEBBD
 ```
