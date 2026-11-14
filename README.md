@@ -1,4 +1,4 @@
-# This markdown contains all the learnings i have done on microsoft.
+# This markdown contains all the learnings i have done on the microsoft platform.
 
 ## 🚀 Achievements
 ```bash
