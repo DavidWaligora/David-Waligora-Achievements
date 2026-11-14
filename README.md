@@ -1,5 +1,4 @@
-# David-Waligora
-# This repo holds my achievements.
+# This markdown contains all the learnings i have done on microsoft.
 
 ## 🚀 Achievements
 ```bash
